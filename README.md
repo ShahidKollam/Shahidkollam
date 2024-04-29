@@ -40,6 +40,3 @@
 
 - 📧 Email: shahidkollam333@gmail.com
 - 📱 Phone: +91 8606504004
-- 💼 LinkedIn: [shahidkollam](#)
-- 🐙 GitHub: [shahidkollam](#)
-- 🛠️ Leetcode: [shahidkollam](#)
