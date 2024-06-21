@@ -7,9 +7,12 @@
 
 ### Frontend
 - React.js
+- Next.js
 - Redux
 - Recoil
-- CSS, JSX
+- Javascript
+- Typescript
+- CSS
 - Bootstrap
 - Tailwind CSS
 - Chakra UI
