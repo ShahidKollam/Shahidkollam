@@ -2,32 +2,12 @@
 
 💻 **Full Stack Developer (MERN + Modern Tools)**  
 ⚡ Passionate about scalable apps, distributed systems & modern UI/UX.  
-🌱 Currently learning **Kubernetes & Advanced System Design**  
 📍 Kerala, India  
 
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahid-m/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShahidKollam) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918606504004) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahidkollam333@gmail.com)  
-
----
-
-## 🏢 Professional Experience  
-
-### 🚀 **Full Stack Developer @ Entegation Technologies LLC (Remote, USA)**  
-📅 *Sep 2024 – Present*  
-- Reduced **search response time from 2s → <10ms** on a **9M+ record database** using Redis caching.  
-- Scaled **email delivery system** using RabbitMQ & Kafka, handling high-volume concurrent traffic.  
-- Developed an **in-house UI component library (Verdaccio)** → reduced frontend effort by 70%.  
-- Implemented **unit & integration testing (Jest, Supertest)** → reduced production bugs by 60%.  
-- Mentored junior developers, code reviews, and **best practice enforcement**.  
-
-### 🔧 **MERN Developer @ Brototype (Apprenticeship, Kerala, India)**  
-📅 *Jun 2023 – Aug 2024*  
-- Built & deployed **end-to-end MERN applications** with focus on clean code & performance.  
-- Optimized **complex DB queries** → reduced execution time by 40%.  
-- Worked in **Agile environment with weekly cycles & peer reviews**.  
-- Delivered **3+ major production-ready projects** during bootcamp.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahid-m/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShahidKollam) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918606504004) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahidkollam333@gmail.com)  
 
 ---
 
