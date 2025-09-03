@@ -33,11 +33,11 @@
 ---
 
 ## 📊 GitHub Stats
-![Shahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahidM&show_icons=true&theme=radical)  
+![Shahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahidKollam&show_icons=true&theme=radical)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ShahidM&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=ShahidKollam&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahidM&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahidKollam&layout=compact&theme=radical)  
 
 ---
 
@@ -49,4 +49,4 @@
 
 ---
 
-⭐️ From [Shahid M](https://github.com/ShahidM)
+⭐️ From [Shahid M](https://github.com/ShahidKollam)
